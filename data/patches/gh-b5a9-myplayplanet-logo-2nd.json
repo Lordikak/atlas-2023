@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "MyPlayPlanet Logo (2nd)",
+	"description": "The myplayplanet.net logo is drawn by a small community of technical Minecraft players that builds tnt cannons. This logo is the second attempt on the canvas after a bot wipe of the first one. The original plan was to draw the logo of two rival servers with a heart in the middle but the space and time wasn't enough for that.",
+	"links": {
+		"website": [
+			"https://myplayplanet.net/"
+		]
+	},
+	"path": {
+		"213-215": [
+			[
+				-270,
+				927
+			],
+			[
+				-270,
+				950
+			],
+			[
+				-255,
+				950
+			],
+			[
+				-256,
+				926
+			]
+		]
+	},
+	"center": {
+		"213-215": [
+			-263,
+			938
+		]
+	}
+}
